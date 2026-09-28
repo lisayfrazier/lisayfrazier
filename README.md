@@ -25,6 +25,10 @@ Python, C#, SQL, R, Power BI, data validation, test automation, interactive lear
 - B.S., Engineering Technology — DeVry University
 - A.A.S., Electronic Engineering — DeVry University
 
+## Author and publisher
+
+I also create engineering education resources and publish books through LF Portfolios Education & Publishing. [Explore my Amazon Author Page](https://www.amazon.com/author/lisayfrazier). My books and technical projects reflect the same goal: making complex subjects easier to learn and use.
+
 ## Find my work
 
 - [LinkedIn](https://www.linkedin.com/in/lisayfrazier/)
