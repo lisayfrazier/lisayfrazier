@@ -1,42 +1,34 @@
-# 👋 Hi, I'm Lisa Frazier
+# Lisa Y. Frazier
 
-### Software & Systems Builder | Engineering Technology Graduate | AI Interactive Systems Creator
+**Engineering technology | Software projects | Data analytics | Educational publishing**
 
-I design and build AI-powered interactive learning systems combining software engineering, data pipelines, and educational technology.
+I build practical tools and learning resources at the intersection of engineering, software, and education. My background includes a B.S. in Engineering Technology, an M.S. in Information Systems Management, and an MBA. I am the founder of LF Portfolios Education & Publishing and the creator of Engineer Mindset™ and Interactive Ink™.
 
----
+This profile contains working examples, learning projects, and prototypes. Each repository describes its own scope and status.
 
-##  Featured Projects
+## Selected work
 
-###  Interactive Ink (Prototype)
-Interactive digital reading experience exploring stylus-enabled learning systems and interactive education technology.
+- **[Interactive Ink™ prototype](https://github.com/lisayfrazier/interactive-ink-prototype)** — An early Python learning exercise connected to my interactive education concept. The [current public Interactive Ink™ demo](https://interactiveink.myengineermindset.com/) is a separate browser experience; this repository is not its full source code.
+- **[DataValidatorCLI](https://github.com/lisayfrazier/DataValidatorCLI)** — A C# console practice project for validating transaction input, dates, amounts, and required descriptions.
+- **[GenAI Data Pipeline (Mini ETL)](https://github.com/lisayfrazier/genai-data-pipeline)** — A Python practice pipeline that reads CSV input, checks score data, adds a pass flag, and writes results. It is an ETL demonstration, not a deployed AI system.
+- **[Cypress testing coursework](https://github.com/lisayfrazier/ATE_PEP1_Testing_Using_Cypress)** — Automated testing work from training.
+- **[AI Interactive Assistant](https://github.com/lisayfrazier/ai-interactive-assistant)** — Planned document assistant. The repository currently contains a project outline; implementation is in progress.
 
-###  GenAI Data Pipeline (Mini ETL)
-AI-ready data ingestion and processing workflow demonstrating modern data engineering concepts.
+## Skills and interests
 
-###  AI Interactive Assistant (RAG Application) — *In Progress*
-Document-based AI assistant using Retrieval-Augmented Generation (RAG) for interactive learning systems.
+Python, C#, SQL, R, Power BI, data validation, test automation, interactive learning tools, and quality and systems engineering. I am continuing to develop my software architecture and FE Other Disciplines knowledge.
 
----
+## Education
 
-##  Technical Focus
+- MBA — Keller Graduate School of Management, DeVry University
+- M.S., Information Systems Management — Keller Graduate School of Management, DeVry University
+- B.S., Engineering Technology — DeVry University
+- A.A.S., Electronic Engineering — DeVry University
 
-- Python Development
-- Git & GitHub
-- AI / LLM Integration
-- Data Pipelines
-- Systems Engineering Concepts
-- Interactive Learning Technology
+## Find my work
 
----
-
-##  Currently Learning
-
-- Retrieval-Augmented Generation (RAG)
-- AI Application Development
-- Software Architecture Fundamentals
-- FE Engineering Exam Preparation
-
----
-
-* Building technology at the intersection of education, AI, and interactive systems.
+- [LinkedIn](https://www.linkedin.com/in/lisayfrazier/)
+- [Professional portfolio](https://www.lfportfolios.com/projects-6)
+- [Engineer Mindset™](https://www.myengineermindset.com/)
+- [Interactive Ink™ live demo](https://interactiveink.myengineermindset.com/)
+- [Personal website](https://www.lisayfrazier.com/)
