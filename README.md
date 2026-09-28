@@ -2,7 +2,7 @@
 
 **Engineering technology | Software projects | Data analytics | Educational publishing**
 
-I build practical tools and learning resources at the intersection of engineering, software, and education. My background includes a B.S. in Engineering Technology, an M.S. in Information Systems Management, and an MBA. I am the founder of LF Portfolios Education & Publishing and the creator of Engineer Mindset™ and Interactive Ink™.
+I build practical tools and learning resources at the intersection of engineering, software, and education. My background includes a B.S. in Engineering Technology, a master's degree in Information Systems Management, and an MBA. I am the founder of LF Portfolios Education & Publishing and the creator of Engineer Mindset™ and Interactive Ink™.
 
 This profile contains working examples, learning projects, and prototypes. Each repository describes its own scope and status.
 
@@ -21,7 +21,7 @@ Python, C#, SQL, R, Power BI, data validation, test automation, interactive lear
 ## Education
 
 - MBA — Keller Graduate School of Management, DeVry University
-- M.S., Information Systems Management — Keller Graduate School of Management, DeVry University
+- Master of Information Systems Management (MISM) — Keller Graduate School of Management, DeVry University
 - B.S., Engineering Technology — DeVry University
 - A.A.S., Electronic Engineering — DeVry University
 
